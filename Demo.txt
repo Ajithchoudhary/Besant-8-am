@@ -1,0 +1,5 @@
+Hello everOne , today is Wednesday
+We are learning JAVA-Core
+That's All
+one two three
+End
